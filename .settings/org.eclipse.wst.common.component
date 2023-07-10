@@ -3,7 +3,7 @@
     
     
     
-    <wb-module deploy-name="FacilitiesProject-0.0.1-SNAPSHOT">
+    <wb-module deploy-name="practice23-0.0.1-SNAPSHOT">
                                         
         
         
@@ -30,7 +30,7 @@
         
         
         
-        <property name="java-output-path" value="/FacilitiesProject/build/classes"/>
+        <property name="java-output-path" value="/practice23/build/classes"/>
         <property name="context-root" value="practice23"/>
                                     
     
